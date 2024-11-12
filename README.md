@@ -156,7 +156,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/guest-microservice.git
+git clone https://github.com/Oqiewu/bnovo-test-task.git
 cd guest-microservice
 ```
 
